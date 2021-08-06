@@ -1,1 +1,1 @@
-# Jie Nissel Blog - Fun Learning and Practicing 
+# Jie Nissel Blog - Fun Learning 
