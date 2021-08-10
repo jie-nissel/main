@@ -1,15 +1,8 @@
 ## Welcome to Jie's Blog
 
-You can use the [editor on GitHub](https://github.com/jzhang34/2021-August/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As part of learning and growing knowledge and skills, I think it is important to have intellectual curiosity and hands-on experience to realize the theory into reality. It is also fancinate on how fast the technology and AI/ML techniques have been advancing, and how much they can benefit all-around fields to improve productivity, create new insights, and forcast what is unseen. 
 
 ```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
