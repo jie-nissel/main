@@ -1,6 +1,6 @@
 ## Welcome to Jie's Blog
 
-As part of learning and growing knowledge and skills, I think it is important to have intellectual curiosity and hands-on experience to realize the theory into reality. It is also fancinate on how fast the technology and AI/ML techniques have been advancing, and how much they can benefit all-around fields to improve productivity, create new insights, and forcast what is unseen. 
+As part of learning and growing knowledge and skills, I think it is important to have intellectual curiosity and hands-on experience to realize the theory into reality. It is also fancinating that how fast the technology and AI/ML techniques have been advancing, and how much they can benefit all-around fields to improve productivity, create new insights, and forcast what is unseen. 
 
 - October 2021 Topic: 
   - ABC 
